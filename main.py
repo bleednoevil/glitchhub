@@ -38,7 +38,7 @@ def listen():
 
 threading.Thread(target=listen, daemon=True).start()
 
-print("🌍 Listening to GitHub...")
+print("🌍 GlitchHub Active...")
 
 while True:
     try:
