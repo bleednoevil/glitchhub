@@ -1,0 +1,4 @@
+# 📦 requirements.txt
+requests
+mido
+python-rtmidi
