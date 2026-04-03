@@ -1,4 +1,4 @@
-# 🔥 GlitchHub
+# GlitchHub
 
 Transform GitHub’s global event stream into a playable MIDI interface.
 
