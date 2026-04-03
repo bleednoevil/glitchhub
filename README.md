@@ -6,7 +6,7 @@ Each push event lights up a pad. Press a pad to open the repository.
 
 ## 🎛 Features
 - Real-time GitHub public events
-- MIDI grid visualization (Push / Launchpad)
+- MIDI grid visualization (Built for Ableton Push 2)
 - Pad decay animation
 - Deterministic repo-to-pad mapping
 - Press pad to open repository in browser
